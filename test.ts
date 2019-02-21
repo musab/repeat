@@ -3,7 +3,7 @@ import {
   test,
   runTests
 } from "https://deno.land/x/testing/mod.ts";
-import { repeat } from "mod.ts";
+import { repeat } from "./mod.ts";
 
 test({
   name: "repeat",

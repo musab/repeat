@@ -7,7 +7,7 @@
 ## Usage
 
 ```ts
-import { repeat } from "URL";
+import { repeat } from "https://raw.githubusercontent.com/musab/repeat/master/mod.ts";
 
 repeat("foo", 2);
 //=> "foofoo"
