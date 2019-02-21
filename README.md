@@ -1,5 +1,7 @@
 # repeat
 
+[![Build Status](https://travis-ci.org/musab/repeat.svg?branch=master)](https://travis-ci.org/musab/repeat)
+
 > Repeats the given string n times
 
 `foo`, 2 → `foofoo`
